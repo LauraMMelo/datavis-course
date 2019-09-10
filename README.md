@@ -14,3 +14,6 @@
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
+
+NOTEBOOK OBSERVABLE  
+https://observablehq.com/@saulomm/introducao-ao-d3-com-observable
