@@ -1,3 +1,7 @@
+## Aula do dia 04/09/2019
+NOTEBOOK OBSERVABLE  
+https://observablehq.com/@saulomm/introducao-ao-d3-com-observable
+[notebook.html](basic/index01.html)<br>
 ## Aula do dia 02/09/2019
 
 [index01.html](basic/index01.html)<br>
@@ -15,5 +19,4 @@
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
 
-NOTEBOOK OBSERVABLE  
-https://observablehq.com/@saulomm/introducao-ao-d3-com-observable
+
