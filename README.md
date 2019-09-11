@@ -1,7 +1,8 @@
 ## Aula do dia 04/09/2019
 NOTEBOOK OBSERVABLE  
-https://observablehq.com/@saulomm/introducao-ao-d3-com-observable
-[notebook.html](basic/index01.html)<br>
+https://observablehq.com/@saulomm/introducao-ao-d3-com-observable  
+[notebook.html](d3_intro/notebook.html)<br>  
+
 ## Aula do dia 02/09/2019
 
 [index01.html](basic/index01.html)<br>
