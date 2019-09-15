@@ -1,3 +1,8 @@
+## Aula do dia 11/09/2019
+NOTEBOOK OBSERVABLE  
+https://observablehq.com/@saulomm/introducao-ao-d3-parte-2-escalas-e-eixos 
+[scatterplot.html](d3_scale/scatterplot.html)<br>  
+
 ## Aula do dia 04/09/2019
 NOTEBOOK OBSERVABLE  
 https://observablehq.com/@saulomm/introducao-ao-d3-com-observable  
