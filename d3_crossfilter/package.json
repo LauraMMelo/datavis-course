@@ -1,0 +1,14 @@
+{
+  "name": "@saulomm/d3-com-crossfilter-e-dc-js",
+  "main": "d/c189cd15c9b993f4.js",
+  "version": "195.0.0",
+  "homepage": "https://observablehq.com/@saulomm/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "Saulo Mendes de Melo",
+    "url": "https://observablehq.com/@saulomm"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
