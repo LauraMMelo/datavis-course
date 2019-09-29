@@ -1,3 +1,8 @@
+## Aula do dia 23/09/2019  
+NOTEBOOK OBSERVABLE    
+https://observablehq.com/@saulomm/d3-com-crossfilter-e-dc-js       
+[index.html](d3_crossfilter/index.html)<br>  
+
 ## Aula do dia 16/09/2019
 NOTEBOOK OBSERVABLE  
 https://observablehq.com/@saulomm/introducao-ao-d3-parte-3-updates-e-transicoes    
