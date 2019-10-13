@@ -1,0 +1,14 @@
+{
+  "name": "@saulomm/similar-song-network",
+  "main": "@saulomm/similar-song-network.js",
+  "version": "86.0.0",
+  "homepage": "https://observablehq.com/@saulomm/similar-song-network",
+  "author": {
+    "name": "Saulo Mendes de Melo",
+    "url": "https://observablehq.com/@saulomm"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
