@@ -1,3 +1,8 @@
+## Aula do dia 09/10/2019  
+NOTEBOOK OBSERVABLE    
+https://observablehq.com/@saulomm/similar-song-network  
+[index.html](d3_network/index.html)<br>   
+
 ## Aula do dia 23/09/2019  
 NOTEBOOK OBSERVABLE    
 https://observablehq.com/@saulomm/d3-com-crossfilter-e-dc-js       
