@@ -1,3 +1,8 @@
+## Aula do dia 23/10/2019  
+NOTEBOOK OBSERVABLE    
+https://observablehq.com/@saulomm/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2  
+[index.html](d3_interactive/index.html)<br>  
+
 ## Aula do dia 09/10/2019  
 NOTEBOOK OBSERVABLE    
 https://observablehq.com/@saulomm/similar-song-network  
