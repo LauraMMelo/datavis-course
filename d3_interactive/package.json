@@ -1,0 +1,14 @@
+{
+  "name": "@saulomm/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "main": "d/4c037bc05e7c5bb7.js",
+  "version": "114.0.0",
+  "homepage": "https://observablehq.com/@saulomm/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "author": {
+    "name": "Saulo Mendes de Melo",
+    "url": "https://observablehq.com/@saulomm"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
